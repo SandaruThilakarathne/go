@@ -1,0 +1,37 @@
+[{
+        "restaurant_id": 1017,
+        "restaurant_name": "Shake it",
+        "currency_code": "SAR",
+        "barnch_id": 1033,
+        "branch_name": "Worod",
+        "lon": 46.677958331680315,
+        "lat": 24.732363861601062
+    },
+    {
+        "restaurant_id": 1033,
+        "restaurant_name": "Ardalhamam",
+        "currency_code": "SAR",
+        "barnch_id": 1061,
+        "branch_name": "almasif",
+        "lon": 46.623423234234234,
+        "lat": 24.242343424284578
+    },
+    {
+        "restaurant_id": 1017,
+        "restaurant_name": "Shake it",
+        "currency_code": "SAR",
+        "barnch_id": 1036,
+        "branch_name": "Umar Ibn Abdulaziz",
+        "lon": 46.652354625462734,
+        "lat": 24.234243543523234
+    },
+    {
+        "restaurant_id": 1011,
+        "restaurant_name": "Termianated - URBEN",
+        "currency_code": "SAR",
+        "barnch_id": 1017,
+        "branch_name": "As Sulimaniyah terminated",
+        "lon": 46.997435634834532,
+        "lat": 24.083874372936382
+    }
+]
